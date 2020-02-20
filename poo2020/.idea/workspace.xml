@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="265b6c7a-45c1-4ff2-8257-decf71b21407" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Cajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaCajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaRestasSucesivas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutarNumMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/NumMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/RestasSucesivas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglo_poo/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglo_poo/EjecutaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglo_poo/EjecutaTercerArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglo_poo/TercerArreglo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +48,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.EjecutaRestasSucesivas">
-    <configuration name="EjecutaEmpleado (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="disenio_repeticion.EjecutaEmpleado" />
+  <component name="RunManager" selected="Application.EjecutaTercerArreglo">
+    <configuration name="EjecutaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arreglo_poo.EjecutaArray" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="disenio_repeticion.*" />
+          <option name="PATTERN" value="arreglo_poo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaNumMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deber_seleccion.EjecutaNumMayor" />
-      <module name="poo2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="deber_seleccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EjecutaRestasSucesivas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="taller_repeticion.EjecutaRestasSucesivas" />
       <module name="poo2020" />
@@ -118,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjecutaTercerArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arreglo_poo.EjecutaTercerArreglo" />
+      <module name="poo2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arreglo_poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjecutaTercerArreglo" />
+        <item itemvalue="Application.EjecutaArray" />
         <item itemvalue="Application.EjecutaRestasSucesivas" />
         <item itemvalue="Application.EjecutaEmpleadoFor" />
         <item itemvalue="Application.EjecutaEmpleadoWhile" />
-        <item itemvalue="Application.EjecutaEmpleado (1)" />
-        <item itemvalue="Application.EjecutaNumMayor" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +141,7 @@
       <workItem from="1581620656550" duration="4665000" />
       <workItem from="1581657815448" duration="6471000" />
       <workItem from="1581691609451" duration="9913000" />
+      <workItem from="1582208275444" duration="4613000" />
     </task>
     <servers />
   </component>
@@ -160,22 +157,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581368239417" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1581702364099">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582214061425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581702364099" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1581702364099">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582214061425" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582214061425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581702364099" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1581702364099">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582214061425" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582214061424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581702364099" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1581702364099">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582214061424" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582214061425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581702364099" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582214061425" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581702364101">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,10 +189,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581702364101" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581691647004">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582208286464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581691647004" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582208286464" />
     <state x="209" y="34" key="new project wizard" timestamp="1581369444038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
