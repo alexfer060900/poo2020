@@ -1,5 +1,4 @@
 package herencia_empleado;
-import herencia.Estudiante;
 
 import java.util.Scanner;
 public class EjecutaEmpleado {
@@ -64,6 +63,5 @@ public class EjecutaEmpleado {
             System.out.println("Sueldo Mensual: " + eas.getValor_mensual());
         }
     }
-
 
 }
